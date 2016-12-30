@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="MathView-0.0.6-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/PhysicsConstant/MathView-0.0.6/unspecified/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/PhysicsConstant/MathView-0.0.6/unspecified/jars/libs/chunk-templates-3.0.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/PhysicsConstant/MathView-0.0.6/unspecified/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

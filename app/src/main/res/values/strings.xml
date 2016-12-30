@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Physics Constants</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="banner_home_footer">ca-app-pub-4101986457162856/8457861721</string>
+</resources>
